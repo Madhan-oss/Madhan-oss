@@ -24,7 +24,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="[LinkedIn URL]">
+  <a href="https://www.linkedin.com/in/madhan-kumar-a31146274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
