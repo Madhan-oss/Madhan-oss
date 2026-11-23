@@ -1,176 +1,180 @@
-<h1 align="center">Hi 👋, I'm B Madhan Kumar</h1>
+<!-- PROFILE HEADER -->
 
-<h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MADHAN%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=58&descSize=17" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Turning+Ideas+Into+Real+World+Solutions" />
+</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Madhan--oss-181717?style=for-the-badge&logo=github)](https://github.com/Madhan-oss)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhankumar1824@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **B. Madhan Kumar**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at **SRM Institute of Science and Technology, Trichy**.
+
+I enjoy building intelligent applications, solving real-world problems and exploring emerging technologies.
+
+- 🎓 B.Tech Artificial Intelligence & Machine Learning (2023–2027)
+- 📊 CGPA: 8.4
+- 🤖 Interested in AI, Machine Learning and NLP
+- 💻 Building Full Stack and AI-powered applications
+- ☁️ Exploring Cloud Computing and Backend Engineering
+- 🏆 Second Prize Winner at a National-Level Hackathon
+- 🚀 Published a browser extension on Microsoft Edge Add-ons
+
+> "Build something meaningful. Keep learning. Never stop innovating."
+
+## ⚡ Currently Focused On
+
+- Building practical AI-powered applications.
+- Exploring FastAPI and modern backend development.
+- Improving problem-solving and software engineering skills.
+- Learning cloud technologies and scalable application development.
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
----
+### Frontend & Backend
 
-# 🚀 About Me
-
-- 💻 I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
-- 🚀 I enjoy turning ideas into real-world projects.
-- 🌱 Currently learning **Next.js, TypeScript, and Cloud Technologies**.
-- 🤝 Open to collaborating on exciting web development and open-source projects.
-- 📚 Always exploring modern technologies and best development practices.
-- ⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/madhan-kumar-a31146274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="[Portfolio URL]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:[Email Address]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,fastapi,flutter" />
 </p>
 
----
+### AI / Machine Learning
 
-# 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite" />
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
----
+`NLP` `spaCy` `Whisper` `GPT APIs` `Genetic Algorithms` `DEAP`
 
-# 🚀 Featured Projects
+### Database & Cloud
 
-## 🌍 Portfolio Website
-
-Modern personal portfolio showcasing projects, skills, and experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-🔗 **Live Demo:** [Portfolio URL]
-
-📂 **Repository:** [GitHub Repository]
-
----
-
-## 🛒 E-Commerce Website
-
-A responsive online shopping platform with authentication and cart functionality.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-🔗 **Live Demo:** [Project URL]
-
-📂 **Repository:** [GitHub Repository]
-
----
-
-## ✅ Task Management App
-
-A productivity application to organize daily tasks with authentication.
-
-**Tech Stack**
-
-`React` `Firebase` `Tailwind CSS`
-
-🔗 **Live Demo:** [Project URL]
-
-📂 **Repository:** [GitHub Repository]
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,aws" />
 </p>
 
----
+### Tools & Platforms
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
+`Google Analytics` `Google Search Console` `Firebase Cloud Messaging`
 
 ---
 
-# 🏆 GitHub Trophies
+## 🚀 Engineering Portfolio
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+### Featured Projects
 
----
+| Project | Description | Technologies |
+|---|---|---|
+| 🔗 AI Smart Reminder Assistant | Converts shared YouTube, Instagram, blog and job links into smart reminders using NLP and notifications. | Flutter, Python, FastAPI, Firebase, spaCy |
+| 🏥 SmartMed VoiceBot | Voice-based primary health guidance using speech recognition, GPT analysis and speech generation. | Python, Whisper, GPT, gTTS, PyAudio |
+| 🌪️ AERO-BLADE | Generative design and aerodynamic optimization of wind turbine blades using genetic algorithms and XFOIL. | Python, XFOIL, DEAP |
+| 🌐 Promptly Browser Extension | Designed, developed and published a browser extension on Microsoft Edge Add-ons. | Browser Extension Development |
 
-# 🛠 Currently Working On
+### Project Highlights
 
-- 🚀 Building full-stack web applications.
-- 🌱 Learning advanced React ecosystem.
-- ☁️ Exploring cloud deployment and DevOps.
-- 📱 Improving responsive UI/UX design.
-
----
-
-# 📚 Currently Learning
-
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
+- Built a full-stack smart reminder application with automatic push notifications.
+- Developed a speech-in, speech-out AI assistant.
+- Led a team through the wind turbine optimization project lifecycle.
+- Successfully published Promptly on the Microsoft Edge Add-ons store.
 
 ---
 
-# 🎯 Goals for 2025
+## 💼 Experience
 
-- ✅ Contribute to Open Source
-- ✅ Build SaaS Applications
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Computing
-- ✅ Grow My Developer Portfolio
+**AI/ML Summer Intern — NIT Tiruchirappalli**
 
----
+`June 2025 – July 2025`
 
-# 💡 Favorite Quote
+- Worked on practical AI/ML projects and research activities.
+- Applied machine learning concepts to real-world problems.
+- Presented project work to mentors and faculty.
 
-> "Code is like humor. When you have to explain it, it's bad."
->
-> — Cory House
+**Technical SEO Intern — VR Della Infotech**
 
----
+`July 2025 – August 2025`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+- Audited website performance using Google Analytics and Search Console.
+- Identified technical issues affecting search visibility.
+- Worked on website optimization and organic search performance.
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+## 🏆 Achievements & Leadership
 
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p>
+- 🥈 Second Prize — National-Level Hackathon, Bannari Amman Institute of Technology, Erode.
+- 🥇 First Prize — College Technical Quiz Competition.
+- 🎯 Organized YUVA'25 Hackathon at SRM Institute of Science and Technology.
+- 👨‍💻 Team Lead — Generative Design for Aerodynamic Wind Turbine Blades.
+
+## 📜 Certifications
+
+- AWS Academy — Generative AI Foundations
+- IBM — Artificial Intelligence Fundamentals
+- Cisco Networking Academy — Introduction to Modern AI
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Madhan-oss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan-oss&theme=tokyonight&hide_border=true" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-oss&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-oss&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Madhan-oss">
+<img src="https://img.shields.io/badge/GitHub-Madhan--oss-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:madhankumar1824@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Madhan-oss&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<h3>⚡ Learn • Build • Innovate • Repeat ⚡</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%"/>
+
+</div>
