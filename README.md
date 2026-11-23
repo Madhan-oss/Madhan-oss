@@ -2,16 +2,16 @@
 
 <div align="center">
 
-## K E S A V A R A J A
+## B M A D H A N K U M A R
 
 ### `AI Systems Engineer` · `Full-Stack Builder` · `Ships Production, Not Prototypes`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Systems+that+detect+their+own+failures.;Self-healing+dependency+PRs+%7C+Postgres-only+job+queues+%7C+3D+web+graphics.;If+it's+deployed%2C+it's+real.+Everything+else+is+a+demo." alt="Typing SVG" />
 
 <p>
-  <a href="mailto:krkesavaraja67@gmail.com"><img src="https://img.shields.io/badge/Email-krkesavaraja67%40gmail.com-0A0A0B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+  <a href="mailto:madhankumar1824@gmail.com"><img src="https://img.shields.io/badge/Email-krkesavaraja67%40gmail.com-0A0A0B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
   <a href="https://kesavaraja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kesavaraja.vercel.app-0A0A0B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /></a>
-  <a href="https://linkedin.com/in/kesavaraja-m"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+  <a href="https://www.linkedin.com/in/madhan-kumar-a31146274/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
   <a href="https://buymeacoffee.com/kesavaraja67"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0A0A0B?style=for-the-badge&logo=buymeacoffee&logoColor=FFFFFF" /></a>
 </p>
 
